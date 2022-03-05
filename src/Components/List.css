@@ -1,0 +1,26 @@
+.item {
+  margin-top: 10px;
+  display: flex;
+  margin: 10px;
+  width: 180px;
+  height: 20px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ede7f6;
+  border-radius: 2px;
+  padding: 10px;
+  background-color: rgb(77, 14, 77);
+}
+.item p {
+  font-size: 14px;
+  margin: 0;
+}
+
+.item button {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  padding: 0;
+  border: transparent;
+  /* outline: none; */
+}
